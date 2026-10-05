@@ -1,0 +1,4 @@
+Telethon==1.45.0
+requests==2.34.2
+setuptools>=70
+wheel>=0.45
